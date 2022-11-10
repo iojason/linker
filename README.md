@@ -4,6 +4,7 @@ Linker is part of a free tutorial to help people learn basic web development thr
 ## How To Use This Tutorial
 Switch to branch `complete` for the final code.
 Switch to branch `start` for the tutorial.
+
 branch `main` = project intro.
 
 ## What You Will Learn
