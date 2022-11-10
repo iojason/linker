@@ -1,5 +1,5 @@
 # Linker
-Linker is part of a free tutorial to help people learn basic web development through building their own landing page like [Linktree] 
+Linker is part of a free tutorial to help people learn basic web development through building their own landing page similar to [Linktree] 
 
 ### What You Will Learn
 - Create your own landing page to share all your social media accounts, portfolio, works, offerings, anything in a single place. The website is responsive and will work on any device. 
