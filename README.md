@@ -3,6 +3,7 @@ Linker is part of a free tutorial to help people learn basic web development thr
 
 ## How To Use This Tutorial
 Switch to branch `complete` for the final code.
+
 Switch to branch `start` for the tutorial.
 
 branch `main` = project intro.
@@ -49,6 +50,7 @@ But feel free to tag me @iojason and bring me that sweet juice and fame. Please 
 
 > Technology is best when it brings people together.
 > —Matt Mullenweg
+
 
 *With Kindness,*
 
