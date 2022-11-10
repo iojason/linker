@@ -26,7 +26,7 @@ Clone the new repository you just created
 git clone https://github.com/username/username.github.io
 ```
 
-Clone the **linker** repository and switch to branch **complete`
+Clone the **linker** repository and switch to branch **complete**
 ```
 git clone https://github.com/iojason/linker.git
 git checkout complete
