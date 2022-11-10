@@ -5,6 +5,7 @@ Linker is part of a free tutorial to help people learn basic web development thr
 `git checkout main` = project intro.
 
 `git checkout start` for the tutorial.
+
 `git checkout complete` for the final code.
 
 ## What You Will Learn
