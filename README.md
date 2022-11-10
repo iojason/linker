@@ -1,6 +1,7 @@
 # Linker
 Linker is part of a free tutorial to help people learn basic web development through building their own landing page similar to [Linktree] 
 
+
 ## How To Use This Tutorial
 `git checkout main` = project intro.
 
@@ -8,9 +9,11 @@ Linker is part of a free tutorial to help people learn basic web development thr
 
 `git checkout complete` for the final code.
 
+
 ## What You Will Learn
 - Create your own landing page to share all your social media accounts, portfolio, works, offerings, anything in a single place. The website is responsive and will work on any device. 
 - Version Control - a key skill that every developer needs to know to track code changes.
+
 
 ## Tech
 - HTML 
@@ -19,6 +22,7 @@ Linker is part of a free tutorial to help people learn basic web development thr
 - [GitHub]
 - [Visual Studio Code] 
 - [Material Design by Google]
+
 
 ## Quick Use
 Create a [new repository in GitHub] named as username.github.io (replace **username** with your github username)
@@ -44,9 +48,11 @@ Open up [VS Code] or your favorite IDE and make the necessary updates (name, tag
 
 Then do a simple `git push`
 
+
 ## License
 
 MIT
+
 But feel free to tag me @iojason and bring me that sweet juice and fame. Please do share it with your friends and families to help the learn programming. Appreciate the love.
 
 > Technology is best when it brings people together.
