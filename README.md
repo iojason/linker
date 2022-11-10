@@ -2,11 +2,9 @@
 Linker is part of a free tutorial to help people learn basic web development through building their own landing page similar to [Linktree] 
 
 ## How To Use This Tutorial
-Switch to branch `complete` for the final code.
-
-Switch to branch `start` for the tutorial.
-
-branch `main` = project intro.
+`git checkout main` = project intro.
+`git checkout start` for the tutorial.
+`git checkout complete` for the final code.
 
 ## What You Will Learn
 - Create your own landing page to share all your social media accounts, portfolio, works, offerings, anything in a single place. The website is responsive and will work on any device. 
@@ -28,13 +26,13 @@ Clone the new repository you just created
 git clone https://github.com/username/username.github.io
 ```
 
-Clone the **linker** repository
+Clone the **linker** repository and switch to branch **complete`
 ```
 git clone https://github.com/iojason/linker.git
 git checkout complete
 ```
 
-Move everything within the **linker** directory into your *username.github.io* folder
+Move everything within the **linker** directory into your *username.github.io* folder, then delete **linker**.
 ```
 mv linker/* username.github.io
 rm -d linker
@@ -47,15 +45,12 @@ Then do a simple `git push`
 ## License
 
 MIT
-
 But feel free to tag me @iojason and bring me that sweet juice and fame. Please do share it with your friends and families to help the learn programming. Appreciate the love.
 
 > Technology is best when it brings people together.
 > —Matt Mullenweg
 
-
 *With Kindness,*
-
 Jason
 
 
@@ -65,4 +60,3 @@ Jason
 [VS Code]: <https://https://code.visualstudio.com//>
 [GitHub]: <https://github.com/>
 [new repository in GitHub]: <https://github.com/new/>
-
