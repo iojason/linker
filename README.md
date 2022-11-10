@@ -37,6 +37,7 @@ git checkout complete
 Move everything within the **linker** directory into your *username.github.io* folder
 ```
 mv linker/* username.github.io
+rm -d linker
 ```
 
 Open up [VS Code] or your favorite IDE and make the necessary updates (name, tag, background image, labels/links) within index.html and linker-style.css files.
