@@ -3,9 +3,7 @@ Linker is part of a free tutorial to help people learn basic web development thr
 
 ## How To Use This Tutorial
 `git checkout main` = project intro.
-
 `git checkout start` for the tutorial.
-
 `git checkout complete` for the final code.
 
 ## What You Will Learn
@@ -52,12 +50,20 @@ git push
 ## License
 
 MIT
-But feel free to tag me @iojason and bring me that sweet juice and fame. Please do share it with your friends and families to help the learn programming. Appreciate the love.
+
+Free software, WOO!
+
+But feel free to tag me @iojason and bring me that sweet juice and fame. Please share this with your friends and families to help them learn programming and create their own linker page.
+
+[Buy me a pizza](https://www.buymeacoffee.com/iojason) 🍕 if you like this project and want to support my journey. I appreciate all the love.
+
 
 > Technology is best when it brings people together.
 > —Matt Mullenweg
 
+
 *With Kindness,*
+
 Jason
 
 
