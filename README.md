@@ -1,5 +1,5 @@
 # Linker
-Linker is part of a free tutorial to help people learn basic web development through building their own landing page similar to [Linktree] 
+Linker is part of a free tutorial to help learn basic web development through building your own landing page to link all your social media similar to [Linktree]
 
 ## How To Use This Tutorial
 `git checkout main` = project intro.
@@ -51,16 +51,15 @@ git push
 
 MIT
 
-Free software, WOO!
+**Free to use. Oh yeah!**
 
 But feel free to tag me @iojason and bring me that sweet juice and fame. Please share this with your friends and families to help them learn programming and create their own linker page.
-
-[Buy me a pizza](https://www.buymeacoffee.com/iojason) 🍕 if you like this project and want to support my journey. I appreciate all the love.
-
 
 > Technology is best when it brings people together.
 > —Matt Mullenweg
 
+
+Like this project? [Buy me a pizza](https://www.buymeacoffee.com/iojason) 🍕
 
 *With Kindness,*
 
