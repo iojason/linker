@@ -1,5 +1,5 @@
 # Linker
-Linker is a landing page to connect your entire social presents in one place (similar to [Linktree]).
+Linker is a landing page to connect all your social media in one place (similar to [Linktree]).
 
 This is part of a free tutorial that I host to help students learn basic web development by building their own profile webpage and hosting it for free on [GitHub Pages]. 
 
