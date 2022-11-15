@@ -55,6 +55,13 @@ git commit -am "my linker page."
 git push
 ```
 
+
+## Things I Would Add
+Google Analytics, API integration, Subsciption, Alerts, and many other ideas I have. 
+
+## See a Bug?
+Hit me up on Twitter [@_iojason] and we can squash it right away.
+
 ## License
 
 MIT
@@ -67,18 +74,10 @@ Like this project? Write a review and feel free to tag me @iojason to give me th
 > —Matt Mullenweg
 
 
-
-
 *Appreciate the love*
 
 Jason
 
-
-##### Things I Would Add
-Google Analytics, API integration, Subsciption, Alerts, and many other ideas I have. 
-
-##### See a Bug?
-Hit me up on Twitter [@_iojason] and we can squash it right away.
 
 
 [LinkTree]: <https://linktr.ee/>
